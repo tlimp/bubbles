@@ -1,0 +1,16 @@
+bubbles - an experiment with processing
+
+as the name suggests, bubbles displays some bubbles ;) which are one after another randomly placed
+on the screen. each bubble may grow or shrink depending on whether it touches another bubble or the
+"walls" of the frame. additionaly the bubbles cycle through the colors of the rainbow and get more
+transparent the smaller they are.
+
+usage:
+you must have the "processing development environment" installed.
+http://processing.org/download/
+furthermore the triangulate library is needed.
+http://wiki.processing.org/w/Triangulation
+(http://wiki.processing.org/w/How_to_Install_a_Contributed_Library)
+
+WARNING:
+the changing colors of the wobbling bubbles may be hypnotizing or cause epilepsy.
