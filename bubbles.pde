@@ -14,7 +14,6 @@ void draw() {
   background(bg);
   grid.update();
   grid.renderBubbles();
-
 }
 
 void mouseClicked() {
